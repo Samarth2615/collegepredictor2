@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from "react";
-import { Whatsapp } from "lucide-react";
+import { Facebook } from "lucide-react";
 import { Instagram } from "lucide-react";
 import { usePathname } from "next/navigation";
 
@@ -21,7 +21,7 @@ const Navbar = ({ item1, item2 }) => {
 
         <div className="flex gap-4">
           <SocialIcon socialLink={"https://www.instagram.com/bhardwajvishalofficial"}>
-            <Whatsapp color="#fff" fill="#fff" strokeWidth="0.1" />
+            <Facebook color="#fff" fill="#fff" strokeWidth="0.1" />
           </SocialIcon>
           <SocialIcon socialLink={"https://www.instagram.com/bhardwajvishalofficial"}>
             <Instagram color="#fff" />
