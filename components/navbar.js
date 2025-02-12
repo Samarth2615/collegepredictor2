@@ -13,7 +13,7 @@ const Navbar = ({ item1, item2 }) => {
         <div className="relative w-32 md:w-40 aspect-video">
           <img
             src="https://raw.githubusercontent.com/Samarth2615/collegepredictor2/refs/heads/main/IMG_20250212_171512.png"
-            alt="Avanti Fellows logo"
+            alt=" Fellows logo"
             layout="fill"
             className="object-contain"
           />
