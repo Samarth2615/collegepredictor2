@@ -12,8 +12,8 @@ const Navbar = ({ item1, item2 }) => {
       <div className="flex flex-row justify-between items-center px-4 md:px-8 py-2">
         <div className="relative w-32 md:w-40 aspect-video">
           <img
-            src="https://raw.githubusercontent.com/Samarth2615/collegepredictor2/refs/heads/main/IMG_20250212_171512.png"
-            alt=" Fellows logo"
+            src="https://cdn.avantifellows.org/af_logos/avanti_logo_black_text.webp"
+            alt="Avanti Fellows logo"
             layout="fill"
             className="object-contain"
           />
