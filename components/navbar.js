@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from "react";
-import { Facebook } from "lucide-react";
+import { Whatsapp } from "lucide-react";
 import { Instagram } from "lucide-react";
 import { usePathname } from "next/navigation";
 
