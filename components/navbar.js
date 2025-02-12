@@ -20,10 +20,10 @@ const Navbar = ({ item1, item2 }) => {
         </div>
 
         <div className="flex gap-4">
-          <SocialIcon socialLink={"https://www.facebook.com/avantifellows"}>
+          <SocialIcon socialLink={"https://www.instagram.com/bhardwajvishalofficial"}>
             <Facebook color="#fff" fill="#fff" strokeWidth="0.1" />
           </SocialIcon>
-          <SocialIcon socialLink={"https://www.instagram.com/avantifellows"}>
+          <SocialIcon socialLink={"https://www.instagram.com/bhardwajvishalofficial"}>
             <Instagram color="#fff" />
           </SocialIcon>
         </div>
